@@ -1,0 +1,46 @@
+exposure,category,count,percentage,label,class_id,cumulative,midpoint
+GDF15,Immune cells & cytokines,49,0.544444444,54%,GDF15_Immune cells & cytokines,0.544444444,0.272222222
+CD276,Immune cells & cytokines,22,0.458333333,46%,CD276_Immune cells & cytokines,0.458333333,0.229166667
+APOM,Immune cells & cytokines,60,0.434782609,43%,APOM_Immune cells & cytokines,0.434782609,0.217391304
+LGALS4,Immune cells & cytokines,64,0.383233533,38%,LGALS4_Immune cells & cytokines,0.383233533,0.191616766
+EGFR,Immune cells & cytokines,27,0.333333333,33%,EGFR_Immune cells & cytokines,0.333333333,0.166666667
+GHRL,Immune cells & cytokines,32,0.271186441,27%,GHRL_Immune cells & cytokines,0.271186441,0.13559322
+GHRL,Amino acids & derivatives,27,0.228813559,23%,GHRL_Amino acids & derivatives,0.5,0.38559322
+LGALS4,Energy & carbohydrate metabolism,38,0.22754491,23%,LGALS4_Energy & carbohydrate metabolism,0.610778443,0.497005988
+EGFR,Amino acids & derivatives,18,0.222222222,22%,EGFR_Amino acids & derivatives,0.555555556,0.444444444
+CD276,Microbiota & metabolites,10,0.208333333,21%,CD276_Microbiota & metabolites,0.666666667,0.5625
+GDF15,Microbiota & metabolites,15,0.166666667,17%,GDF15_Microbiota & metabolites,0.711111111,0.627777778
+GHRL,Energy & carbohydrate metabolism,18,0.152542373,15%,GHRL_Energy & carbohydrate metabolism,0.652542373,0.576271186
+EGFR,Microbiota & metabolites,11,0.135802469,14%,EGFR_Microbiota & metabolites,0.691358025,0.62345679
+APOM,Sphingolipids & phospholipids,18,0.130434783,13%,APOM_Sphingolipids & phospholipids,0.565217391,0.5
+GHRL,Sphingolipids & phospholipids,15,0.127118644,13%,GHRL_Sphingolipids & phospholipids,0.779661017,0.716101695
+LGALS4,Sphingolipids & phospholipids,21,0.125748503,13%,LGALS4_Sphingolipids & phospholipids,0.736526946,0.673652695
+CD276,Amino acids & derivatives,6,0.125,12%,CD276_Amino acids & derivatives,0.791666667,0.729166667
+EGFR,Sphingolipids & phospholipids,10,0.12345679,12%,EGFR_Sphingolipids & phospholipids,0.814814815,0.75308642
+APOM,Amino acids & derivatives,17,0.123188406,12%,APOM_Amino acids & derivatives,0.688405797,0.626811594
+APOM,Fatty acid & cholesterol metabolism,17,0.123188406,12%,APOM_Fatty acid & cholesterol metabolism,0.811594203,0.75
+EGFR,Energy & carbohydrate metabolism,9,0.111111111,11%,EGFR_Energy & carbohydrate metabolism,0.925925926,0.87037037
+GDF15,Energy & carbohydrate metabolism,10,0.111111111,11%,GDF15_Energy & carbohydrate metabolism,0.822222222,0.766666667
+APOM,Energy & carbohydrate metabolism,15,0.108695652,11%,APOM_Energy & carbohydrate metabolism,0.920289855,0.865942029
+LGALS4,Microbiota & metabolites,18,0.107784431,11%,LGALS4_Microbiota & metabolites,0.844311377,0.790419162
+CD276,Energy & carbohydrate metabolism,5,0.104166667,10%,CD276_Energy & carbohydrate metabolism,0.895833333,0.84375
+GHRL,Fatty acid & cholesterol metabolism,11,0.093220339,9%,GHRL_Fatty acid & cholesterol metabolism,0.872881356,0.826271186
+GHRL,Microbiota & metabolites,11,0.093220339,9%,GHRL_Microbiota & metabolites,0.966101695,0.919491525
+GDF15,Amino acids & derivatives,8,0.088888889,9%,GDF15_Amino acids & derivatives,0.911111111,0.866666667
+LGALS4,Fatty acid & cholesterol metabolism,14,0.083832335,8%,LGALS4_Fatty acid & cholesterol metabolism,0.928143713,0.886227545
+CD276,Sphingolipids & phospholipids,4,0.083333333,8%,CD276_Sphingolipids & phospholipids,0.979166667,0.9375
+APOM,Microbiota & metabolites,8,0.057971014,6%,APOM_Microbiota & metabolites,0.97826087,0.949275362
+EGFR,Fatty acid & cholesterol metabolism,4,0.049382716,5%,EGFR_Fatty acid & cholesterol metabolism,0.975308642,0.950617284
+GDF15,Fatty acid & cholesterol metabolism,4,0.044444444,4%,GDF15_Fatty acid & cholesterol metabolism,0.955555556,0.933333333
+LGALS4,Amino acids & derivatives,6,0.035928144,4%,LGALS4_Amino acids & derivatives,0.964071856,0.946107784
+GDF15,Sphingolipids & phospholipids,3,0.033333333,3%,GDF15_Sphingolipids & phospholipids,0.988888889,0.972222222
+GHRL,Nutrient metabolism,3,0.025423729,3%,GHRL_Nutrient metabolism,0.991525424,0.978813559
+EGFR,Nucleotide metabolism,2,0.024691358,2%,EGFR_Nucleotide metabolism,1,0.987654321
+CD276,Vitamins & cofactors,1,0.020833333,2%,CD276_Vitamins & cofactors,1,0.989583333
+LGALS4,Nucleotide metabolism,3,0.017964072,2%,LGALS4_Nucleotide metabolism,0.982035928,0.973053892
+APOM,Nucleotide metabolism,2,0.014492754,1%,APOM_Nucleotide metabolism,0.992753623,0.985507246
+LGALS4,Nutrient metabolism,2,0.011976048,1%,LGALS4_Nutrient metabolism,0.994011976,0.988023952
+GDF15,Nucleotide metabolism,1,0.011111111,1%,GDF15_Nucleotide metabolism,1,0.994444444
+GHRL,Vitamins & cofactors,1,0.008474576,1%,GHRL_Vitamins & cofactors,1,0.995762712
+APOM,Nutrient metabolism,1,0.007246377,1%,APOM_Nutrient metabolism,1,0.996376812
+LGALS4,Vitamins & cofactors,1,0.005988024,1%,LGALS4_Vitamins & cofactors,1,0.997005988
