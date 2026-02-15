@@ -242,6 +242,6 @@ timestamp <- format(Sys.time(), "%Y%m%d_%H%M%S")
 
 saveWidget(
   p,
-  paste0("./plot/sankey_final_", timestamp, ".html"),
+  paste0("./results/sankey_final_", timestamp, ".html"),
   selfcontained = TRUE
 )

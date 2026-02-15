@@ -191,7 +191,7 @@ print(p)
 # 10. Save figure
 # =============================
 ggsave(
-  "./plot/dot_plot.pdf",
+  "./results/dot_plot.pdf",
   plot = p,
   width = 8,
   height = 2,

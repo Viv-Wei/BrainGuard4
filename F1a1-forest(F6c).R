@@ -69,7 +69,7 @@ ggplot(df, aes(x = OR, y = factor(Outcome, levels = rev(Outcome)))) +
 # =============================
 # 5. Save figure
 # =============================
-ggsave("./plot/forest.pdf", width = 9, height = 6)
+ggsave("./results/forest.pdf", width = 9, height = 6)
 
 #----------------------------- Restricted Cubic Spline -----------------------------
 
@@ -149,5 +149,5 @@ ggplot(pdat, aes(x = glucose, y = yhat)) +
 # =============================
 # 8. Save figure
 # =============================
-ggsave("./plot/RCS_plot.pdf", width = 9, height = 6)
+ggsave("./results/RCS_plot.pdf", width = 9, height = 6)
 

@@ -11,7 +11,7 @@ library(colorspace)
 # 0. Path Configuration
 # ===========================
 input_dir <- "./data/F7/"
-output_dir <- "./plot/F7/"
+output_dir <- "./results/F7/"
 
 if (!dir.exists(output_dir)) {
   dir.create(output_dir, recursive = TRUE)

@@ -77,4 +77,4 @@ ggplot(
 # =============================
 # 6. Save figure
 # =============================
-ggsave("./plot/stacked_bar.pdf", width = 9, height = 6)
+ggsave("./results/stacked_bar.pdf", width = 9, height = 6)

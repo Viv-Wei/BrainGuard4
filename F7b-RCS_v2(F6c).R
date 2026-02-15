@@ -15,7 +15,7 @@ library(dplyr)
 # 3. Read data 
 # [can replace the data with other cohort data]
 # =============================
-df <- read.csv("./data/rcs_data_share.csv")
+df <- read.csv("./data/F7/RCS_share.csv")
 
 # =============================
 # 4. Create survival object
@@ -117,7 +117,7 @@ rcs_fig <- ggplot(plot_df, aes(x = total_score, y = yhat)) +
 # 10. Save plot
 # =============================
 ggsave(
-  "./plot/RCS_TotalScore_HR_share.pdf",
+  "./results/RCS_TotalScore_HR_share.pdf",
   plot = rcs_fig,
   width = 2.66,
   height = 2.99,

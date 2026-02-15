@@ -120,7 +120,7 @@ create_individual_plots <- function(data, data_type = "All") {
     plot_list[[gene]] <- p
     
     ggsave(
-      paste0("./plot/Correlation_", gene, "_", data_type, ".pdf"),
+      paste0("./results/Correlation_", gene, "_", data_type, ".pdf"),
       p,
       width = 6,
       height = 6
@@ -149,7 +149,7 @@ create_combined_plot <- function(plot_list, data_type = "All") {
   combined_plot <- wrap_plots(plot_list, ncol = 2)
   
   ggsave(
-    paste0("./plot/All_Genes_Correlation_Comparison_", data_type, ".pdf"),
+    paste0("./results/All_Genes_Correlation_Comparison_", data_type, ".pdf"),
     combined_plot,
     width = 14,
     height = 16

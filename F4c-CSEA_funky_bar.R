@@ -41,7 +41,7 @@ p02 <- funky_heatmap(
 # 5. Save figure
 # =============================
 Cairo::CairoPDF(
-  file = "./plot/CSEA-funky_bar.pdf",
+  file = "./results/CSEA-funky_bar.pdf",
   width = 8,
   height = 6
 )

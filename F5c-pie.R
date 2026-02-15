@@ -64,7 +64,7 @@ p <- ggplot(pie_data, aes(x = "", y = percentage, fill = category, group = class
 print(p)
 
 ggsave(
-  "./plot/Faceted_Pie_Charts.pdf",
+  "./results/Faceted_Pie_Charts.pdf",
   plot = p,
   width = 10,
   height = 10

@@ -112,7 +112,7 @@ vsplot <- plot_grid(
 # 6. Save figure
 # =============================
 ggsave(
-  './plot/Volcano_pic.pdf',
+  './results/Volcano_pic.pdf',
   plot   = vsplot,
   height = 6,
   width  = 13,

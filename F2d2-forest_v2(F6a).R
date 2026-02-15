@@ -167,7 +167,7 @@ for (f01 in c("T2D", "preDM")) {
       panel.grid.major.y = element_line(color = "grey90", linewidth = 0.3)
     )
   
-  file_name <- paste0("./plot/", f01, "_ForestPlot_Dot.pdf")
+  file_name <- paste0("./results/", f01, "_ForestPlot_Dot.pdf")
   
   ggsave(
     file_name,

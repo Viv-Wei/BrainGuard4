@@ -67,7 +67,7 @@ p <- ggplot(df, aes(x = percent, y = pathway)) +
 # 5. Save plot
 # =============================
 ggsave(
-  "./plot/lollipop.pdf",
+  "./results/lollipop.pdf",
   plot = p,
   width = 8,
   height = 3,

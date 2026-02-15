@@ -47,7 +47,7 @@ p <- ggplot(df, aes(x = percent, y = group)) +
 # 4. Save
 # =============================
 ggsave(
-  "./plot/incidence_barplot.pdf",
+  "./results/incidence_barplot.pdf",
   plot = p,
   width = 4,
   height = 3,

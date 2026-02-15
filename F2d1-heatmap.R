@@ -109,7 +109,7 @@ p <- ggplot(df, aes(x = Protein, y = Outcome)) +
 # 8. Save figure
 # =============================
 ggsave(
-  "./plot/heat_plot.pdf",
+  "./results/heat_plot.pdf",
   plot = p,
   width = 8.4,
   height = 2.5,

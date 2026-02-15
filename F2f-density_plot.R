@@ -121,4 +121,4 @@ ggplot(df_with_text, aes(x = predicted_cognition_norm, y = group, fill = group))
 # =============================
 # 8. Save figure
 # =============================
-ggsave("./plot/density_plot.pdf", width = 9, height = 6)
+ggsave("./results/density_plot.pdf", width = 9, height = 6)

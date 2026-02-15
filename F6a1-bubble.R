@@ -345,7 +345,7 @@ print(p)
 # 12. Save figure
 # =============================
 ggsave(
-  "./plot/bubble.pdf",
+  "./results/bubble.pdf",
   plot = p,
   width = 8,
   height = 4,

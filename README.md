@@ -14,7 +14,7 @@
 **Figure 2:**
 - (a) ROC curve `F2ab-deepordinal model and shap value.ipynb`.
 - (b) Beeswarm plot `F2ab-deepordinal model and shap value.ipynb`.
-- (c) Ring bar chart `F2c2-ring_bar_chart.R`.
+- (c) Ring bar chart `F2c-ring_bar_chart.R`.
 - (d) Bubble heatmap `F2d1-heatmap.R` and Forest plot `F2d2-forest_v2(F6a).R`.
 - (e) ROC curve `F2e1-ROC.ipynb` and Time-dependent AUC plot `F2e2-AUC.ipynb`.
 - (f) Density plot `F2f-density_plot.R`.
