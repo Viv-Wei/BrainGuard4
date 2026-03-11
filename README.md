@@ -1,6 +1,6 @@
 # BrainGuard4
 
-<big>*Stage-ordered Proteomic Atlas of Diabetic Dementia and the Development of BrainGuard4: A Multi-cohort Prevention Framework*</big>
+<strong>*Stage-ordered Proteomic Atlas of Diabetic Dementia and the Development of BrainGuard4: A Multi-cohort Prevention Framework*</strong>
 
 
 ## Core code
